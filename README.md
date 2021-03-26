@@ -1,7 +1,5 @@
 # fullstatck-angular-spring-boot
 
-Angular 10
-
 Angular 10 features that this project exhibits are:
 
 Authentication & route protection
